@@ -1,9 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 ## About ReactToDolist Fetures
-1. Add Task to ToDoList.
-2.Time and date of added task.
-3. Strike through the completed task.
-4.Delete completed task.
+** Add Task to ToDoList.
+** Time and date of added task.
+** Strike through the completed task.
+** Delete completed task.
 
 ## What we use
 1.Arrays
